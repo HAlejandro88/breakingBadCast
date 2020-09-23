@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en el componente <Search/> pruebas contra el snapshot 1`] = `
+<section
+  className="search"
+>
+  <form>
+    <input
+      autoFocus={true}
+      className="form-control"
+      onChange={[Function]}
+      placeholder="Search character"
+      type="text"
+      value=""
+    />
+  </form>
+</section>
+`;

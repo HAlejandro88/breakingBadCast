@@ -33,5 +33,6 @@ describe('pruebas en el componente <CharacterItem/>', () => {
         const lista = wrapper.find('ul');
         const listaCompleta = lista.children('li');
         expect(listaCompleta.length).toBe(4)
-    }) 
+    })
+
 })
